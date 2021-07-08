@@ -16,6 +16,10 @@ Medium Link(First Article of Reporting) : https://mehmetali-kaya.medium.com/sql-
 
 Medium Link(Second Article of Reporting) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-birden-fazla-%C3%B6l%C3%A7%C3%BC-olu%C5%9Fturma-3a1261dcb7e6
 
+<b> Common Table Expressions with SQL </b>
+
+Medium Link: https://mehmetali-kaya.medium.com/sql-ile-multi-level-aggregation-e5caf1d440be
+
 <b>Window Functions With SQL</b>
 
 Medium Link(First Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-over-3aa175bbe80d
