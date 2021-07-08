@@ -12,17 +12,17 @@ Medium Link : https://mehmetali-kaya.medium.com/t-sql-ile-case-when-yap%C4%B1s%C
 
 <b>Reporting Data With SQL</b>
 
-Medium Link : https://mehmetali-kaya.medium.com/sql-ile-raporlama-1-b9578272456c
+Medium Link(First Article of Reporting) : https://mehmetali-kaya.medium.com/sql-ile-raporlama-1-b9578272456c
 
-Medium Link : https://mehmetali-kaya.medium.com/sql-i%CC%87le-birden-fazla-%C3%B6l%C3%A7%C3%BC-olu%C5%9Fturma-3a1261dcb7e6
+Medium Link(Second Article of Reporting) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-birden-fazla-%C3%B6l%C3%A7%C3%BC-olu%C5%9Fturma-3a1261dcb7e6
 
 <b>Window Functions With SQL</b>
 
-Medium Link : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-over-3aa175bbe80d
+Medium Link(First Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-over-3aa175bbe80d
 
 
-Medium Link : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-over-ve-partition-by-eafe43a9162e
+Medium Link(Second Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-over-ve-partition-by-eafe43a9162e
 
 
-Medium Link : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-rank-dense-rank-row-number-ntile-542d98f64f32
+Medium Link(Third Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-rank-dense-rank-row-number-ntile-542d98f64f32
 
