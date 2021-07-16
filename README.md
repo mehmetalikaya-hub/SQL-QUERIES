@@ -31,7 +31,7 @@ Medium Link(Second Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-wi
 Medium Link(Third Article) : https://mehmetali-kaya.medium.com/sql-i%CC%87le-window-functions-rank-dense-rank-row-number-ntile-542d98f64f32
 
 <b>LAG AND LEAD</b>
-Medium Article : 
+Medium Article : https://mehmetali-kaya.medium.com/window-functions-lead-ve-lag-7bf01cdb6279
 
 
 
